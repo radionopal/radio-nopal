@@ -15,7 +15,7 @@ const streams = [
     streamingId: 2,
     streamName: 'nopalVentana',
     calendarId: process.env.¿MéxicoFeministAconA?,
-    calendarApiKey: process.env.¿MéxicoFeministAconA?,
+    calendarApiKey: process.env.REACT_APP_GOOGLE_CALENDAR_API_KEY_2,
   },
 ];
 
