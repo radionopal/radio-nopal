@@ -11,6 +11,12 @@ const streams = [
     calendarId: process.env.REACT_APP_CALENDAR_ID_2,
     calendarApiKey: process.env.REACT_APP_GOOGLE_CALENDAR_API_KEY_2,
   },
+  {
+    streamingId: 2,
+    streamName: 'nopalVentana',
+    calendarId: process.env.¿MéxicoFeministAconA?,
+    calendarApiKey: process.env.¿MéxicoFeministAconA?,
+  },
 ];
 
 export default streams;
